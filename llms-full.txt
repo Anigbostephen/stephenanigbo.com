@@ -1,0 +1,152 @@
+# Stephen Chinedu Anigbo, MBBS — full site content
+
+Canonical site: https://stephenanigbo.com/
+Contact: hello@stephenanigbo.com
+Last updated: 2026-10-06
+
+This file mirrors the public content of stephenanigbo.com in plain Markdown for language models and other automated readers. Page URLs are given under each heading.
+
+---
+
+## Home — https://stephenanigbo.com/
+
+Stephen Chinedu Anigbo, MBBS
+Medicine. Research. Artificial Intelligence.
+Physician · Researcher · AI Systems Evaluator
+
+I work across medicine, scientific research and artificial intelligence: evaluating AI systems, building rigorous scientific benchmarks, and exploring how emerging technology can solve hard problems.
+
+Areas of work: Clinical Medicine · Scientific Research · AI Systems Evaluation · Scientific Benchmarking · Epidemiology · Scientific Writing · SEO & Digital Strategy · Building
+
+### About
+I have never been interested in fitting neatly into one box. I am interested in becoming, building, and solving difficult problems.
+
+I am a Nigerian-trained medical doctor whose work has expanded across clinical medicine, research, artificial intelligence, scientific communication, digital publishing and search strategy.
+
+The disciplines look different, but the instinct behind them is the same: understand the problem deeply, communicate clearly, and find a way forward. Business is the next chapter I intend to build. Not a claim about what already exists, but a direction I am deliberately growing toward.
+
+### Worlds I work in
+1. Medicine & Research — Clinical reasoning, patient care, epidemiology, public-health questions, and research grounded in evidence.
+2. Artificial Intelligence — AI Systems Evaluation · Agent Training · Scientific Benchmarking. Designing and reviewing scientific evaluation tasks, interrogating model reasoning, analysing failure modes, and improving the reliability of domain-specific AI systems.
+3. Writing, SEO & Digital Strategy — Scientific communication, long-form writing, SEO-led publishing and content architecture: turning complex ideas into work people can find and understand.
+4. Business & Building — An emerging chapter focused on entrepreneurship, technology-enabled ventures, and building useful companies around real problems.
+
+### Research — questions worth pursuing
+My research experience spans clinical and public-health questions, with a growing interest in how data and computational methods can strengthen health research.
+
+- 2023 — COVID-19 Vaccine Uptake Among Doctors. Cross-sectional undergraduate research assessing vaccine uptake and barriers among doctors at the University of Nigeria Teaching Hospital, analysed in IBM SPSS.
+- 2021 — CKD Progression & APOL1 Nephropathy. Supported a prospective cohort study through biological-sample processing, dietary-recall interviews, participant follow-up and protocol implementation.
+- 2019–2021 — Smartphone Use Among University Students. Contributed to a cross-sectional study of 408 students with the Medical Research and Humanitarian Society, UNTH, and helped run SPSS training for 700+ members.
+
+### Motto
+"Aut viam inveniam aut faciam." — I shall either find a way or make one. A motto that captures how I think about work, uncertainty, ambition, and building what does not yet exist.
+
+### Writing & becoming
+Writing is part of how I think. Long before it became professional work, writing gave me a way to make sense of ambition, uncertainty, science, technology, and the person I am becoming. At seventeen, an essay on justice and freedom placed second nationally in the Wole Soyinka International Cultural Exchange competition. Essays and notes live on Substack, including "Phase 29: Still Building, Still Waiting, Still Here".
+
+### Selected background
+- MBBS — University of Nigeria
+- 6,000+ hours of supervised clinical training
+- SPSS · R · Python — research & technical toolkit
+- SEO · Publishing — search-led content & digital strategy
+
+### Contact
+Open to research & AI-evaluation collaborations. For research, AI systems evaluation, scientific communication, digital strategy, and thoughtful collaborations: hello@stephenanigbo.com. CV available on request.
+
+---
+
+## Medicine & Research — https://stephenanigbo.com/medicine.html
+
+Clinical medicine taught me to reason under uncertainty. Research taught me to turn uncertainty into questions that can be tested.
+
+### Clinical practice
+- Medical Officer — Nigerian Air Force Medical Centre, Uyo · Sep 2025 to Aug 2026. Provided primary, preventive and emergency care across a broad range of acute and chronic conditions: structured assessment, differential diagnosis, interpretation of investigations, evidence-based treatment and specialist referral, with longitudinal care for non-communicable diseases.
+- Medical Intern — University of Uyo Teaching Hospital · Feb 2024 to Feb 2025. More than 6,000 hours of supervised clinical training across internal medicine, paediatrics, surgery, and obstetrics and gynaecology, including emergency and inpatient services and tutoring medical students.
+
+### Research
+- COVID-19 vaccine uptake among doctors (2023). Undergraduate cross-sectional study of uptake and barriers at the University of Nigeria Teaching Hospital, analysed in IBM SPSS.
+- CKD progression and APOL1 nephropathy (2021). Research intern on a prospective cohort study of dietary sodium, potassium and oxalate in chronic kidney disease: 24-hour urine processing, dietary-recall interviews and follow-up of about 15 participants.
+- Smartphone use among university students (2019 to 2021). Cross-sectional study of 408 students with the Medical Research and Humanitarian Society, UNTH, plus organising research-methods and SPSS training for 700+ members.
+
+### Education
+MBBS — University of Nigeria, Nsukka · Oct 2016 to Jul 2023
+- Pre-clinical sciences: Human Anatomy, Physiology and Medical Biochemistry.
+- Para-clinical sciences: Pathology and Pharmacology.
+- Clinical training: Internal Medicine, Surgery, Obstetrics and Gynaecology, and Paediatrics, through supervised clinical postings.
+- Community medicine & public health: epidemiology, biostatistics, international health, maternal and child health, occupational health and environmental health.
+
+### Where I am going
+My long-term interests include epidemiology, public health, health data, and research that connects clinical questions with computational methods.
+
+---
+
+## Artificial Intelligence & Technology Systems — https://stephenanigbo.com/technology.html
+
+I work on the difficult part of AI: determining whether systems reason reliably when the subject matter demands scientific precision.
+
+### Professional AI work
+AI Systems Evaluator, Scientific Benchmarking — Confidential AI project (NDA) · Remote · September 2026 to present. I evaluate advanced AI systems on complex scientific reasoning and computational problem-solving tasks. Project-specific details remain confidential under NDA.
+
+### What the work involves
+- Designing and validating scientific benchmarks, reference solutions and automated evaluation frameworks.
+- Building multi-step scientific-computing tasks that draw on research literature, quantitative reasoning, data analysis and reproducible code.
+- Analysing model failures in reasoning, interpretation, implementation and adherence to scientific specifications.
+- Quality assurance, independent validation and robustness testing so tasks are sound, reproducible and appropriately hard.
+- Working with AI agents and large language models to produce structured evidence for model evaluation and improvement.
+
+### Why a clinician
+Medicine is a discipline of reasoning under uncertainty, checking assumptions, and catching the confident wrong answer before it causes harm. That is exactly what good AI evaluation demands. I bring the habits of differential diagnosis to model outputs: what else could explain this, what was missed, and what would a careful expert have done differently.
+
+### Scientific computing
+I work in technical and scientific problem settings that require careful specification, reproducible testing, Python-based workflows, and disciplined interpretation of model behaviour.
+
+---
+
+## Writing, SEO & Ideas — https://stephenanigbo.com/writing.html
+
+Writing is not an accessory to my work. It is one of the ways I think, teach, persuade, build audiences, and make complex ideas useful.
+
+### Selected writing
+- Essay (2nd place) — "Justice and Freedom: Essential Conditions for Humanity" — https://wolesoyinkainternationalculturalexchange.com/justice-and-freedom-essential-conditions-for-humanity-anigbo-stephen-chinedu/
+- Substack — "Phase 29: Still Building, Still Waiting, Still Here" — https://open.substack.com/pub/stephenanigbo
+
+The essay won second place nationally in the 2015 Wole Soyinka International Cultural Exchange essay competition, written at seventeen while at Christ the King College, Onitsha.
+
+### SEO & digital publishing
+I produce long-form, search-led content for brands and publishers, placed with high-authority international news and technology outlets.
+- Keyword and SERP research, search-intent mapping and featured-snippet targeting.
+- Content architecture: topic clusters, internal linking and FAQ schema on WordPress with Rank Math and Yoast.
+- E-E-A-T-driven editorial standards and strict compliance on health and product claims.
+- Python tooling for keyword density, uniqueness checks and compliance scanning.
+- Building and running my own niche content sites, and coordinating small writing teams.
+
+### Scientific communication
+Years of teaching have shaped how I explain technical ideas: accurately, clearly, and for the audience in front of me.
+- Peer Educator, University of Nigeria Medical Students' Association (2021 to 2023): mentored more than 200 junior medical students and developed biomedical learning materials.
+- Educational Program Adviser, Deacons Digital Technology (2015 to 2021): reviewed science learning materials for 650+ students and helped build an examination-concept database used in PREP 50 textbooks reaching 5,000+ students.
+
+### Personal essays
+On Substack I write more personally about ambition, uncertainty, work, becoming, and the ideas shaping my life. https://open.substack.com/pub/stephenanigbo
+
+---
+
+## Business & Building — https://stephenanigbo.com/business.html
+
+I do not present myself as a founder before I have built the company. I do, however, take seriously the direction I am heading.
+
+### An emerging chapter
+I intend to build companies. The exact vehicle may evolve, but I am interested in ventures at the intersection of useful technology, health, information, and real-world problems.
+
+### How I think about building
+My background has trained me to move between evidence, communication, technology and execution. I want to carry that multidisciplinary approach into entrepreneurship.
+
+### The principle
+"Aut viam inveniam aut faciam." I shall either find a way or make one. Business belongs on this site as a statement of trajectory: ambitious, explicit, and honest about what is still being built.
+
+---
+
+## Profiles
+- LinkedIn: https://linkedin.com/in/stephen-anigbo-7b8627141
+- X (Twitter): https://x.com/stephenanigbo
+- Substack: https://open.substack.com/pub/stephenanigbo
+- Instagram: https://www.instagram.com/_stepheen

@@ -1,0 +1,34 @@
+# Stephen Chinedu Anigbo, MBBS
+
+> Stephen Chinedu Anigbo is a Nigerian-trained medical doctor, researcher, and AI systems evaluator working across clinical medicine, scientific research, artificial intelligence, scientific communication, SEO, and digital strategy. Website: https://stephenanigbo.com/ · Contact: hello@stephenanigbo.com
+
+Name: Stephen Chinedu Anigbo (honorific suffix: MBBS)
+Roles: Medical Doctor · Researcher · AI Systems Evaluator (Scientific Benchmarking)
+Location: Nigeria (AI work is remote)
+Motto: "Aut viam inveniam aut faciam" — I shall either find a way or make one.
+
+## Primary pages
+- [Home](https://stephenanigbo.com/): overview, about, research timeline, contact
+- [Medicine & Research](https://stephenanigbo.com/medicine.html): clinical practice, research projects, education
+- [Artificial Intelligence & Technology Systems](https://stephenanigbo.com/technology.html): AI systems evaluation and scientific benchmarking
+- [Writing, SEO & Ideas](https://stephenanigbo.com/writing.html): selected writing, SEO and digital publishing, scientific communication
+- [Business & Building](https://stephenanigbo.com/business.html): entrepreneurial direction
+
+## Key facts
+- MBBS, University of Nigeria, Nsukka (2016–2023)
+- Medical Intern, University of Uyo Teaching Hospital (Feb 2024 – Feb 2025): 6,000+ hours of supervised clinical training
+- Medical Officer, Nigerian Air Force Medical Centre, Uyo (Sep 2025 – Aug 2026)
+- AI Systems Evaluator (Scientific Benchmarking), confidential AI project under NDA, remote (Sep 2026 – present). Public description is limited to non-confidential responsibilities: scientific benchmarking, model evaluation, failure-mode analysis, reference-solution development, quality assurance.
+- Research: COVID-19 vaccine uptake among doctors (2023); CKD progression and APOL1 nephropathy cohort (2021); smartphone use among university students (2019–2021)
+- Writing: second place, 2015 Wole Soyinka International Cultural Exchange essay competition; essays on Substack
+- Toolkit: SPSS, R, Python; SEO and digital publishing
+
+## Profiles
+- LinkedIn: https://linkedin.com/in/stephen-anigbo-7b8627141
+- X: https://x.com/stephenanigbo
+- Substack: https://open.substack.com/pub/stephenanigbo
+- Instagram: https://www.instagram.com/_stepheen
+
+## Optional
+- [Full site content in Markdown](https://stephenanigbo.com/llms-full.txt)
+- [Sitemap](https://stephenanigbo.com/sitemap.xml)

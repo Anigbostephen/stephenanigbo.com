@@ -1,0 +1,13 @@
+{
+  "name": "Stephen Chinedu Anigbo, MBBS",
+  "short_name": "S. Anigbo",
+  "description": "Physician, researcher and AI systems evaluator.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#0b0b0c",
+  "theme_color": "#0b0b0c",
+  "icons": [
+    { "src": "/assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

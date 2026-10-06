@@ -1,0 +1,12 @@
+/* TEAM */
+  Owner: Stephen Chinedu Anigbo, MBBS
+  Site: https://stephenanigbo.com
+  Contact: hello@stephenanigbo.com
+  Location: Nigeria
+
+/* SITE */
+  Last update: 2026-10-06
+  Standards: HTML5, CSS3, vanilla JavaScript
+  Components: none (hand-built, static)
+  Fonts: Instrument Serif, Inter
+  Hosting: GitHub Pages
