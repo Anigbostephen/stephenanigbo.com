@@ -1,12 +1,12 @@
-STEPHENANIGBO.COM UPDATE
+StephenAnigbo.com v6.6
 
-Important: upload ALL files and folders in this package to the ROOT of the GitHub repository.
+Upload the CONTENTS of this folder to the root of the existing GitHub repository. Do not upload the ZIP itself.
 
-The assets/ folder is REQUIRED. It contains the portrait, favicon and social sharing image.
-After upload, confirm GitHub shows an assets folder at repository root.
+This update:
+- Re-composes the homepage hero for phones so identity and positioning appear before the portrait.
+- Reduces mobile hero type/spacing and portrait height while preserving desktop styling.
+- Keeps both portrait assets in /assets.
+- Request CV links open a pre-addressed, pre-filled CV request email.
+- General email links open a pre-addressed, pre-filled general inquiry.
 
-This update also adds:
-- Prefilled Request CV email subject and body
-- Prefilled general Email/contact subject and body
-- Clickable hello@stephenanigbo.com contact link
-- Root-absolute portrait paths for more reliable GitHub Pages loading
+Do not change Namecheap DNS, the GitHub custom domain, or HTTPS settings.
