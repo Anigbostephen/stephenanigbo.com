@@ -1,0 +1,12 @@
+STEPHENANIGBO.COM UPDATE
+
+Important: upload ALL files and folders in this package to the ROOT of the GitHub repository.
+
+The assets/ folder is REQUIRED. It contains the portrait, favicon and social sharing image.
+After upload, confirm GitHub shows an assets folder at repository root.
+
+This update also adds:
+- Prefilled Request CV email subject and body
+- Prefilled general Email/contact subject and body
+- Clickable hello@stephenanigbo.com contact link
+- Root-absolute portrait paths for more reliable GitHub Pages loading
